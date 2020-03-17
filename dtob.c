@@ -61,6 +61,8 @@ int main()
     return 0;
 }
 
+//無聊新增一個註解(2020/3/17)
+
 long power(long b, long p)
 {
     long result = 1;
